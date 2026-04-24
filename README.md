@@ -12,4 +12,16 @@
  * Kelas: [Computer Science]
  */
 
- 
+Use Java 11
+Structure
+-.idea
+--.gitignore
+--misc.xml
+--modules.xml
+--vcs.xml
+-src
+--PlaylistRekursif.java
+-.gitignore
+-R1_TK3-COSC6025- Data Structures and Algorithm Analysis.doc
+-TK1-3.iml
+-TK3-G7-Data Structures and Algorithm Analysis.pdf
