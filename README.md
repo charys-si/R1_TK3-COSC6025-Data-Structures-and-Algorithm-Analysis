@@ -10,7 +10,7 @@
  * 4. [SHAFA ALIFIA SALSABILA NURUL ICHSAN] - [2902697233]
  * 5. [MUHAMMAD RIZKI KURNIA PUTRA] - [2401968362]
  * Kelas: [Computer Science]
- */
+ * 
 
 Use Java 11
 /**Structure
@@ -22,7 +22,7 @@ Use Java 11
  * -src
  * --PlaylistRekursif.java
  * -.gitignore
- * -R1_TK3-COSC6025- Data Structures and Algorithm Analysis.doc
+ * -R1_TK3-COSC6025- Data Structures and Algorithm Analysis.doc (Lembar Jawaban doc)
  * -TK1-3.iml
- * -TK3-G7-Data Structures and Algorithm Analysis.pdf
- */
+ * -TK3-G7-Data Structures and Algorithm Analysis.pdf (Lembar Jawaban pdf)
+ * 
